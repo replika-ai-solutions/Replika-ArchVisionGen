@@ -1,6 +1,9 @@
 # 🏢 **Replika AI Solutions: IA Generativa de Imagens para Arquitetura e Design**  
 🎨 **State-of-the-Art Generative AI | Powered by Stable Diffusion**  
 
+![ai-arquitetura-desafios](https://github.com/user-attachments/assets/b20d827b-7730-4bd1-8c87-13fb723ae6d0)
+
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  
 ![CUDA](https://img.shields.io/badge/CUDA-11.8-green?logo=nvidia)  
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)  
